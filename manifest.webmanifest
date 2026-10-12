@@ -1,0 +1,1 @@
+{"name":"寵物急救考試 PWA","short_name":"寵物急救","description":"犬貓生理徵狀、緊急處置、CPR、包紮考前複習","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f8f7","theme_color":"#167b78","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
